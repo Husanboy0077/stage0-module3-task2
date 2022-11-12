@@ -7,6 +7,7 @@ package lang.print.gaps.task2;
 
     void callToFriend() {
         //some code
+
     }
 
     void callByNumber(int number) {
